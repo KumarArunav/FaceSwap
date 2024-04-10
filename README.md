@@ -1,2 +1,2 @@
 # FaceSwap
-A FaceSwap api using  Insight Face Packafe
+A FaceSwap api using  Insight Face Package
